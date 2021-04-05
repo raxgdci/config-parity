@@ -103,3 +103,5 @@ Instead of writing your custom configuration parser for whatever tooling or auto
 are doing, write the parsing and generating into Config Parity, on the foundation included
 that simplifies the process. Then, import Config Parity into your project, and have it do
 the heavy lifting on how your code interacts with configurations.
+
+[Apache 2.0 License Information](https://www.apache.org/licenses/LICENSE-2.0.txt)
